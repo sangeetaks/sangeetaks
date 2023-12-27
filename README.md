@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sangeetaks
-- 👀 I’m interested in  web developement
+- 👀 I’m interested in  python
 
 
 <!---
